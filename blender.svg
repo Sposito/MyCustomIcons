@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 744.09449 744.09448"
+   id="svg3344"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="blender.svg">
+  <defs
+     id="defs3346" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="779.45299"
+     inkscape:cy="791.87777"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4225"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1849"
+     inkscape:window-height="1056"
+     inkscape:window-x="71"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3349">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <g
+       id="g4225"
+       transform="matrix(1.5360094,0,0,1.5360094,-199.4208,-127.90411)">
+      <circle
+         r="222.38045"
+         cy="526.18109"
+         cx="372.04724"
+         id="path3352"
+         style="fill:#e09603;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4200"
+         d="m 377.1582,406.33594 -12.01758,13.84961 31.34376,25.07422 -49.75196,-3.85743 -127.31245,122.08402 206.42769,178.24802 c 77.03783,-19.26209 137.95859,-78.14162 159.83398,-154.47852 z"
+         style="fill:#b37802;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ssscccsssssssssssssssssssccssss"
+         inkscape:connector-curvature="0"
+         id="blenderLogo"
+         d="m 360.28997,617.82418 c -21.92935,-2.64612 -45.57881,-15.81329 -59.59715,-33.18157 -11.03954,-13.67766 -20.37026,-35.13684 -20.43211,-46.99046 -0.017,-3.25022 -0.26443,-6.39442 -0.26443,-6.39442 0,0 -8.62847,5.20685 -22.48017,18.96114 -13.17221,10.5411 -23.51364,29.04632 -36.89101,15.80636 -5.77428,-5.77428 -5.98857,-12.26397 -0.64253,-19.4583 2.04049,-2.74596 21.05078,-22.27114 42.2451,-43.38929 21.1943,-21.11815 38.53511,-38.83229 38.53511,-39.36476 0,-0.53246 -10.22523,-0.97133 -22.72274,-0.97526 -12.49751,-0.004 -24.85819,-0.60021 -27.46815,-1.32509 -6.34615,-1.76252 -9.97638,-7.02018 -9.97638,-14.44881 0,-7.2364 4.9585,-12.87815 12.39912,-14.10763 2.68564,-0.44377 29.22191,-0.8132 58.96951,-0.82094 29.74759,-0.008 54.08653,-0.45479 54.08653,-0.99343 0,-0.53862 -7.24078,-8.17154 -16.09065,-16.96205 -8.84985,-8.79048 -16.91482,-17.53829 -17.92216,-19.43957 -5.17848,-9.77399 2.06321,-21.50616 13.27469,-21.50616 2.08497,0 5.9003,1.61926 8.70462,3.69434 6.13156,4.53707 86.85525,85.85096 92.28263,92.95734 5.16804,6.7668 11.41876,19.33733 14.85896,29.88211 4.12293,12.63747 4.0132,39.14677 -0.21796,52.65221 -7.59873,24.25442 -25.17144,45.09453 -47.51589,56.35087 -14.67353,7.39198 -36.32736,11.08147 -53.13494,9.05337 z m 29.36289,-58.23219 c 7.58554,-3.71127 13.20715,-9.35633 17.65958,-17.73326 4.20893,-10.99463 4.42252,-24.11014 -0.52052,-33.56847 -4.03896,-7.63026 -9.846,-13.35536 -17.69847,-17.44877 -8.16225,-4.2549 -25.04243,-4.32161 -32.92839,-0.13014 -8.30962,4.41665 -14.01449,10.0587 -17.618,17.42399 -16.29904,33.31406 17.86982,67.7175 51.1058,51.45665 z"
+         style="fill:#ffffff"
+         inkscape:label="#blenderLogo" />
+    </g>
+  </g>
+</svg>
